@@ -1,0 +1,5 @@
+# dsh-desktop-quick-actions bundle layer: mounts the plugin's host routes
+# (/dsh-quick-actions/info|restart|open) and its client half.
+- insert:
+    - id: desktop-quick-actions
+      name: 'dsh-desktop-quick-actions'
